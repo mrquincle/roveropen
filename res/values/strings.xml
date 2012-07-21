@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, RoverOpenActivity!</string>
+    <string name="app_name">RoverOpen</string>
+    <string name="about">About</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="quit">Quit</string>    
+    
+        <!-- About Dialog -->
+    <string name="about_general">  
+        RoverOpen is developed at Distributed Organisms. DO researches swarm robots and is a daughter company
+        of the Dutch research company Almende B.V. This Android app is coded for the 
+        community to showcase rapid protyping. Most of our swarm solutions use more 
+        dedicated robots. See for example http://www.fireswarm.nl for one of our latest
+        projects.
+    </string>    
+    <string name="about_license_gpl">
+        RoverOpen is released under GPLv3 license, http://gplv3.fsf.org/
+    </string>    
+    <string name="about_ok">OK</string>
+    
+    <string name="backrightbtn">Backwards drive of right side of robot</string>
+    <string name="backleftbtn">Backwards drive of left side of robot</string>
+    <string name="forthrightbtn">Forwards drive of right side of robot</string>
+    <string name="forthleftbtn">Forwards drive of left side of robot</string>
+    
+</resources>
