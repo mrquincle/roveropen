@@ -15,6 +15,9 @@ Make sure you can make an ad-hoc connection to the robot before you try this app
 ## How to build?
 This application makes it easy to use OpenCV together with your Android code for the Brookstone Rover. For that, run $NDK/ndkbuild in the project directory as explicated at http://www.stanford.edu/~zxwang/android_opencv.html.
 
+## Screenshot
+![RoverOpen Screenshot](https://lh6.ggpht.com/9YWHfrJJ5eRqRn5jtn0XPBCsMXM-JMDIs9RUMSrwE677L8tPnVuMcw2TmE4q325rlVI "RoverOpen Screenshot")
+
 ## Where can I read more?
 * [Android Market (RoverOpen)](https://play.google.com/store/apps/details?id=org.almende.roveropen&hl=en)
 
